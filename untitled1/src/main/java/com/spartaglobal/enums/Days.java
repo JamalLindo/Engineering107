@@ -21,7 +21,6 @@ public enum Days {
         Days myDayObject = Days.WEDNESDAY;
         Days myDayObject2 = Days.THURSDAY;
 
-
         System.out.println(myDayObject);
     }
 }

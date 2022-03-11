@@ -19,7 +19,6 @@ public class TDDExample {
         Assertions.assertEquals("Fizz", FizzBuzzGenerator.getFizzBuzzValue(5));
 
     }
-
     @Test
     @DisplayName("Seven should return Buzz")
     void sevenShouldReturnBuzz(){

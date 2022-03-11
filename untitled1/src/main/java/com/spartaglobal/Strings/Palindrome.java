@@ -12,6 +12,8 @@ public class Palindrome {
 
         isPalindrome(s1);
         CountPalin(s2);
+        revString("how are you doing ");
+
     }
 
     public static boolean isPalindrome(String word){
@@ -34,6 +36,7 @@ public class Palindrome {
 
         int palinCount = 0;
         String[] results = sentence.split(" ");
+        int wordCount = results.length;
 
         for(int i = 0; i < results.length ;i++){
             if (isPalindrome(results[i]) && results[i].length() > 3){
@@ -41,8 +44,19 @@ public class Palindrome {
             }
 
         }
-
+        System.out.println(wordCount);
         System.out.println(palinCount);
         return palinCount ;
+    }
+
+    public static String revString (String str){
+
+        String word = str;
+        String revWord = new StringBuilder(word).reverse().toString();
+
+
+        System.out.println(revWord);
+        return revWord;
+
     }
 }

@@ -4,6 +4,9 @@ package com.spartaglobal.Animal;
 //Polymorphism - "poly = many, morpho = form" overriding and overloading
 //Inheritance - Child classes from an abstract parent.
 
+//Abstract class - state and behaviour - Do and has - giving implementation
+//Interface - behaviour
+
 //WHY - Removes code duplication
 // breaks program down
 
