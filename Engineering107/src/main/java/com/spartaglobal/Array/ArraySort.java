@@ -31,7 +31,6 @@ public class ArraySort {
             FullArray[arr1Length + i] = array2[i];
         }
         System.out.println(Arrays.toString(FullArray));
-
         return FullArray;
     }
 }
