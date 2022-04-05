@@ -4,10 +4,30 @@ import java.util.Arrays;
 
 public class SplitMergeSort {
     public static void main(String[] args) {
-        SplitArray();
+        int[] Test = {1,2,57,21,2,3,56};
+        SplitMergeArray(Test);
     }
 
-    private static void SplitArray() {
+    private static int[] SplitMergeArray(int[] FullArray) {
+        // Get the two array lengths.
+        int FArrayLength = FullArray.length / 2;
+        int SArrayLength = FullArray.length - FArrayLength;
+
+        // Make the new split arrays lengths.
+        int [] firstArray = new int[FArrayLength];
+        int [] secondArray = new int[SArrayLength];
+
+        //Populate the new arrays.
+        for (int i = 0; i < FArrayLength ; i++){
+
+            firstArray[i] = FullArray[i];
+        }
+        for (int i = 0; i < SArrayLength ; i++){
+            secondArray[i] = FullArray[FArrayLength + i];
+        }
+
+        return firstArray;
+
         // takes in a full un order array
         // takes the mid-point  divides array by two
         // makes two arrays.
@@ -19,7 +39,7 @@ public class SplitMergeSort {
         // then do the run program till all arrays are length of array
     }
 
-    public static int[] MergedArray(int[] array, int [] array2){
+    public static int[] MergedSortArray(int[] array, int [] array2){
 
         //get the length of all arrays including final.
         int arr1Length = array.length;
