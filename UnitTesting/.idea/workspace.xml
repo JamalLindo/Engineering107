@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ace98669-3741-4f54-a5ba-3a15875d48fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/spartaglobal/Spartan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortManager/src/main/java/com/spartaglobal/Sorters/SplitMergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SortManager/src/main/java/com/spartaglobal/Sorters/SplitMergeSort.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27KQyOcuyj1mpE14XTSH8i1fsRW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jamal\Desktop\WorkFolder\GitHub\Engineering107\UnitTesting\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SpartanTests">
+    <configuration name="SpartanTests$idTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.SpartanTests" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.SpartanTests$idTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTests$idTest.idIsInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.SpartanTests" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.SpartanTests$idTest" />
+      <option name="METHOD_NAME" value="idIsInt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTests$idTest.idPositive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.SpartanTests" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.SpartanTests$idTest" />
+      <option name="METHOD_NAME" value="idPositive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTests$nameTest.idContainsSpecialCharacters90" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal.SpartanTests" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.SpartanTests$nameTest" />
+      <option name="METHOD_NAME" value="idContainsSpecialCharacters90" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpartanTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTesting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spartaglobal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spartaglobal" />
+      <option name="MAIN_CLASS_NAME" value="com.spartaglobal.SpartanTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpartanTests" />
+        <item itemvalue="JUnit.SpartanTests$nameTest.idContainsSpecialCharacters90" />
+        <item itemvalue="JUnit.SpartanTests$idTest.idIsInt" />
+        <item itemvalue="JUnit.SpartanTests$idTest" />
+        <item itemvalue="JUnit.SpartanTests$idTest.idPositive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace98669-3741-4f54-a5ba-3a15875d48fa" name="Changes" comment="" />
+      <created>1649066552515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649066552515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
